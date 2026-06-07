@@ -225,3 +225,5 @@ sudo systemctl restart nginx
 - CRUD operations use PostgreSQL
 - Database credentials are environment variables only
 - App uses one production port: `process.env.PORT || 3000`
+
+Deployment Test - GitHub Actions CI/CD Working
